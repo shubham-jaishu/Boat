@@ -51,12 +51,12 @@ This project replicates the UI of the Boat website, focusing on:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/boat-ui-clone.git
+   git clone https://github.com/shubham-jaishu/Boat.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd boat-ui-clone
+   cd Boat
    ```
 
 3. Install dependencies:
